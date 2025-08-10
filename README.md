@@ -1,5 +1,5 @@
 # Hi 👋, I'm Santosh Chapagain!
-<img src="giffile.gif" alt="Coding animation" width="250" align="right" />
+<img src="giffile.gif" alt="Coding animation" width="360" align="right" />
 
 ## About Me
 An enthusiastic **Data Science & Machine Learning learner** from Nepal.  
