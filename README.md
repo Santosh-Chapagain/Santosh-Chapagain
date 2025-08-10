@@ -11,7 +11,7 @@ Currently diving into data analysis and related projects.
 - 🔭 Exploring Data Science and Machine Learning.  
 - 🌱 Continuously learning and improving my data science skills.  
 - 🤝 Open to collaborations and learning opportunities in data science & ML projects.  
-- 💬 Feel free to ask me about Pandas, NumPy, Seaborn, Python, and more — I’m eager to learn!
+- 💬 Feel free to ask me about Pandas, NumPy, Seaborn, Python — I’m eager to learn!
 
 ## Contact Me  
 📫 Email: [santoahsharam98@gmail.com](mailto:santoahsharam98@gmail.com)
@@ -28,7 +28,7 @@ Currently diving into data analysis and related projects.
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="44" alt="Instagram"/>
   </a>
 </p>
-
+</br>
 ### Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>&nbsp;&nbsp;
