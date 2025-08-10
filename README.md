@@ -1,9 +1,11 @@
 # Hi 👋, I'm Santosh Chapagain!
-<img src="https://github.com/user-attachments/assets/998cd882-4d09-4bcb-8dff-49ac459dca92" alt="Description" width="250" style="float: right; margin-left: 20px;" />
+<img src="https://github.com/user-attachments/assets/998cd882-4d09-4bcb-8dff-49ac459dca92" alt="Description" width="250" align="right" />
 
 ## About Me
 An enthusiastic **Data Science & Machine Learning learner** from Nepal.  
 Currently diving into data analysis and related projects.  
+
+<br/>
 
 ## What I’m Up To  
 - 🔭 Exploring Data Science and Machine Learning.  
@@ -12,7 +14,7 @@ Currently diving into data analysis and related projects.
 - 💬 Feel free to ask me about Pandas, NumPy, Seaborn, Python, and more — I’m eager to learn!
 
 ## Contact Me  
-📫 Email: [santoahsharam98@gmail.com](mailto:adhikariunique65@gmail.com)  
+📫 Email: [santoahsharam98@gmail.com](mailto:santoahsharam98@gmail.com)
 
 ## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-chapagain-041629259/)  
