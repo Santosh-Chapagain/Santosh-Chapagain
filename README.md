@@ -16,7 +16,6 @@ Currently diving into data analysis and related projects.
 ## Contact Me  
 📫 Email: [santoahsharam98@gmail.com](mailto:santoahsharam98@gmail.com)
 
-### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/santosh-chapagain-041629259/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" height="44" alt="LinkedIn"/>
@@ -28,7 +27,9 @@ Currently diving into data analysis and related projects.
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="44" alt="Instagram"/>
   </a>
 </p>
+
 </br>
+
 ### Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>&nbsp;&nbsp;
