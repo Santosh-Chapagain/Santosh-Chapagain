@@ -19,13 +19,13 @@ Currently diving into data analysis and related projects.
 ### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/santosh-chapagain-041629259/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/linkedin-circled.png" alt="LinkedIn" height="44"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" height="26" style="background:#0A66C2;border-radius:50%;padding:8px;margin-right:8px;" />
+  </a>
   <a href="https://www.facebook.com/santosh.chapagain.376" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/facebook-circled.png" alt="Facebook" height="44"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/facebook/ffffff" alt="Facebook" height="26" style="background:#1877F2;border-radius:50%;padding:8px;margin-right:8px;" />
+  </a>
   <a href="https://www.instagram.com/santosz_79/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/instagram-circle.png" alt="Instagram" height="44"/>
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" height="26" style="background:#E4405F;border-radius:50%;padding:8px;" />
   </a>
 </p>
 
