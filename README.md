@@ -1,4 +1,5 @@
 # Hi 👋, I'm Santosh Chapagain!
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="Data Science GIF" width="150" style="float: right; margin-left: 15px;" />
 
 ## About Me
 An enthusiastic **Data Science & Machine Learning learner** from Nepal.  
