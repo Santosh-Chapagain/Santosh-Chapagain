@@ -1,5 +1,5 @@
 # Hi 👋, I'm Santosh Chapagain!
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/998cd882-4d09-4bcb-8dff-49ac459dca92" />
+<img src="https://github.com/user-attachments/assets/998cd882-4d09-4bcb-8dff-49ac459dca92" alt="Description" width="250" style="float: right; margin-left: 20px;" />
 
 ## About Me
 An enthusiastic **Data Science & Machine Learning learner** from Nepal.  
