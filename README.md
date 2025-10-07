@@ -10,8 +10,8 @@
 ---
 
 ## About Me
-Enthusiastic **Data Science & Machine Learning learner** from Nepal.  
-Currently diving into data analysis and related projects.
+Computer Science Student .
+**Data Science & Machine Learning** Enthusiast .  
 
 > “Data is the new oil.”
 
