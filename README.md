@@ -18,9 +18,9 @@ Currently diving into data analysis and related projects.
 ---
 
 ## What I’m Up To  
-- 🔭 Exploring Data Science and Machine Learning.  
-- 🌱 Continuously learning and improving my data science skills.  
-- 🤝 Open to collaborations and learning opportunities in data science & ML projects.  
+- 🔭 Exploring Data Science and Machine Learning  
+- 🌱 Continuously learning and improving my data science skills  
+- 🤝 Open to collaborations and learning opportunities in data science & ML projects  
 - 💬 Feel free to ask me about Pandas, NumPy, Seaborn, Python — I’m eager to learn!
 
 ---
@@ -58,10 +58,10 @@ Currently diving into data analysis and related projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40"/>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 ![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santosh-Chapagain&show_icons=true&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Chapagain&theme=github)
+
 
