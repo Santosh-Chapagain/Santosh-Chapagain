@@ -50,7 +50,7 @@ Computer Science Student .
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="80" height="40"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" height="40"/>
+  <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib" height="40"/>
 </p>
 
 **Tools**
