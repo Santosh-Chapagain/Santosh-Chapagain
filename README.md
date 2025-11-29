@@ -21,7 +21,7 @@ Computer Science Student .
 - 🔭 Exploring Data Science and Machine Learning  
 - 🌱 Continuously learning and improving my data science skills  
 - 🤝 Open to collaborations and learning opportunities in data science & ML projects  
-- 💬 Feel free to ask me about Pandas, NumPy, Seaborn, Python — I’m eager to learn!
+- 💬 Feel free to ask me about Pandas, NumPy, Seaborn, Machine Learning — I’m eager to learn!
 
 ---
 
