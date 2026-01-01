@@ -1,5 +1,4 @@
 # Hi 👋, I'm Santosh Chapagain!
-<img src="giffile.gif" alt="Coding animation" width="360" align="right" />
 
 ---
 
@@ -9,57 +8,33 @@
 
 ---
 
-## About Me
-Computer Science Student .
-**Data Science & Machine Learning** Enthusiast .  
+BSC.CSIT , Far Western University
 
-> “Data is the new oil.”
+## 🌐 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/santosz_79/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/santosh-chapagain-041629259/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santosh-Chapagain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithsantosh.tech/)
+
+## 💻 Tech Stack
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9sc215NnM3aHJqYnIyb2w5ZjAzcjljb3d2bzBtcjA0NXowZzh3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w8oQzlXLnzPLq/giphy.gif" width="280" align="right"/>
+
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
+
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
 ---
-
-## What I’m Up To  
-- 🔭 Exploring Data Science and Machine Learning  
-- 🌱 Continuously learning and improving my data science skills  
-- 🤝 Open to collaborations and learning opportunities in data science & ML projects  
-- 💬 Feel free to ask me about Pandas, NumPy, Seaborn, Machine Learning — I’m eager to learn!
-
----
-
-## 📫 Contact Me  
-<p align="left">
-  <a href="mailto:santoahsharam98@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" height="44" alt="Email"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/santosh-chapagain-041629259/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" height="44" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/santosh.chapagain.376" target="_blank"><img src="https://img.icons8.com/color/48/facebook-circled--v1.png" height="44" alt="Facebook"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/santosz_79/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="44" alt="Instagram"/></a>
-</p>
-
----
-
-## ⚡️ Skills & Tools
-
-**Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
-</p>
-
-**Data Science Stack**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" height="40"/>
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="80" height="40"/>
-  <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib" height="40"/>
-</p>
-
-**Tools**
-<p>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40"/>
-</p>
----
-
-
 
