@@ -3,7 +3,6 @@
 ---
 
 ![GitHub followers](https://img.shields.io/github/followers/Santosh-Chapagain?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Santosh-Chapagain&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/Santosh-Chapagain?style=social)
 
 ---
