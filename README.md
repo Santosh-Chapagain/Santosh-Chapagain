@@ -27,6 +27,11 @@ BSC.CSIT , Far Western University
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
+[![DVC](https://img.shields.io/badge/DVC-%2313ADC7.svg?style=for-the-badge&logo=dvc&logoColor=white)](#)
+[![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
+
 [![LangChain](https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge&logo=chainlink&logoColor=white)](#)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](#)
